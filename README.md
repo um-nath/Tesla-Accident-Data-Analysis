@@ -83,3 +83,9 @@ This project focuses on analyzing Tesla-related accident data to uncover pattern
 
 ---
 
+## 👤 Author
+
+**Ujjwal Manikya Nath**
+
+* Data Science | Machine Learning | Computer Vision
+
